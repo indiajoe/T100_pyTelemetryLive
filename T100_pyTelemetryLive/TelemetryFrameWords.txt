@@ -1,0 +1,59 @@
+0 SYNC 0
+1 SYNC 1
+2 SYNC 2
+3 MAG - I
+4 MAG - II
+5 Chopper Signal 1
+6 S.T. Elev. Error
+7 S.T. Xelev. Error
+8 Coarse Elev. S. E.
+
+10 Offset Status
+11 PDA No. 1
+12 PDA No. 2
+13 Chopper Signal 2
+14 PDA No. 3
+15 PDA No. 4
+16 Fine Elev. S. E.
+17 PDA No. 5
+18 PDA No. 6
+19 PDA No. 7
+20 PDA No. 8
+21 Chopper Signal 3
+22 Rate Gyre Elev
+23 Rate Gyre Xelev
+24 Fine Xelev. S. E.
+
+31 Triangle Wave
+32 Time H
+33 Time L
+
+40 Command Address
+41 Command Data
+
+44 Frame Number
+
+48 DC PDA 4
+49 DC PDA 5
+
+55 DC PDA 1
+56 DC PDA 2
+57 DC PDA 3
+58 DC PDA 6
+59 DC PDA 7
+60 DC PDA 8
+
+62 FPC COUNTER
+
+64 DET SIGNAL
+
+70 FPS SCAN STATUS
+71 FPS 1 L
+72 FPS 1 H
+73 FPS 2 L
+74 FPS 2 H
+75 FPS 3 L
+76 FPS 3 H
+
+78 FPS 4 L
+79 FPS 4 H
