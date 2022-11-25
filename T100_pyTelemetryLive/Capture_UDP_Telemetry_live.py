@@ -55,7 +55,7 @@ file_write_count = 11 # Write the FIFO file out after receiving these many numbe
 # Initialise the FIFO dictionary for all the words with 0
 data_queue_dict = {}
 for w in words_to_extract + extra_frameprefix_keywords:
-    data_queue_dict[w] = deque(maxlen=buffer_size)
+    data_queue_dict[w] = deque([0]*buffer_size,maxlen=buffer_size)
 
 
 ###############################  Setup socket object to capture UDP packets
